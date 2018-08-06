@@ -1,4 +1,9 @@
 my first localAddress!!
+<<<<<<< HEAD
  Im believe myself fighting!!
   im,success ,haha!
   im a bad child,
+ Im believe myself fighting!!!
+ aaaaaaaa  kkkedit by master
+ bbbbbbbbbbbbb
+
